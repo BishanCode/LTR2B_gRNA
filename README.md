@@ -14,7 +14,7 @@ import csv
 from itertools import combinations
 from collections import OrderedDict
 
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-from Bio import SeqIO
+- `pandas`
+- `matplotlib.pyplot`
+- `seaborn`
+- `Bio.SeqIO`
