@@ -11,8 +11,8 @@ Files/: Contains files such as "check_study_detailed.txt" which have been mentio
 Requirements
 To run the code in this repository, you need the following Python packages:
 
--'pandas'
--'matplotlib.pyplot'
--'seaborn'
--'Bio.SeqIO'
+- 'pandas'
+- 'matplotlib.pyplot'
+- 'seaborn'
+- 'Bio.SeqIO'
 
