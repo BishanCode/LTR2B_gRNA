@@ -8,12 +8,6 @@ Code/: A folder that includes some of the codes used for data extraction and cle
 Files/: Contains files such as "check_study_detailed.txt" which have been mentioned in the thesis
 
 Requirements:
-import os
-import re
-import csv
-from itertools import combinations
-from collections import OrderedDict
-
 - `pandas`
 - `matplotlib.pyplot`
 - `seaborn`
