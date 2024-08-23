@@ -1,0 +1,18 @@
+gRNA_create changes 
+
+seaborn==0.11.1
+pygad==2.16.0
+pandas==1.3.0
+tqdm==4.61.2
+Biopython==1.79
+numpy==1.21.0
+matplotlib==3.4.2
+colored==1.4.2
+
+These were the requirement.txt - Instead download one at a time and ensure to download the lastest version the version listed above did not work for me. 
+
+In the project folder ensure there is a cfd.csv file 
+
+Hand issues with directories structure so ensure that is correct.
+
+Otherwise it should run fine as long as you follow the original instruction from the creator. 
